@@ -2,7 +2,7 @@ This is a simple R function to do general data psychometric analysis based on th
 
 Upload the file to your R session with
 ``` 
-source("Your Drive\\psicomAgh.R")
+source("Your Drive\\psicomA.R")
 ``` 
 Simple usage instructions:
 ``` 
